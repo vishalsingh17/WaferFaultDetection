@@ -1,2 +1,2 @@
 # WaferFaultDetection
-Wafers are used in many ICs and sensors. Predicting the faulty wafer based upon the reading of sensors can save a lot of time, money and manpower for a company.
+A wafer is a piece of silicon or other semiconductor material, designed in the form of a very thin disc. Wafers are used to create electronic integrated circuits (ICs) and silicon-based photovoltaic cells. These wafers provide a large volume of data as an output through sensors. Based on the reading provided the sensors and using classification ML algorithms I have predict if the wafer is faulty or not. Using this ML app the companies can save a huge amount of man power, time as well as money.
